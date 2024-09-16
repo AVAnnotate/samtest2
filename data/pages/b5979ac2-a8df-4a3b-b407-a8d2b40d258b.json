@@ -1,14 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-09-16T18:56:38.187Z",
-  "created_by": "saamturner",
-  "title": "Interview 3",
-  "updated_at": "2024-09-16T18:56:38.187Z",
-  "updated_by": "saamturner",
-  "parent": "dcb202ee-30a6-41ab-a68a-a9eb75f558a0",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "add69f68-5830-4811-8c9a-2afda42f629b"
-  }
-}
+{"content":[],"created_at":"2024-09-16T18:56:38.187Z","created_by":"saamturner","title":"Interview 3","updated_at":"2024-09-16T18:56:38.187Z","updated_by":"saamturner","parent":"aa4f77e3-760c-4659-bfff-4f2a41d6ecb8","autogenerate":{"enabled":true,"type":"event","type_id":"add69f68-5830-4811-8c9a-2afda42f629b"}}
